@@ -1,0 +1,14 @@
+:root {
+    --max-width-size: 1920px;
+
+    /* COLORS */
+    --font-hover: #e3e3e3;
+    --hover: #703d6f;
+    --menu-hamburger: #211b29;
+    --bg-menu: #e6eba9;
+    --bg-about: #abbb9f;
+    --bg-services: #6f8b94;
+    --bg-services2: #706482;
+    --bg-footer: #16031e;
+
+}
